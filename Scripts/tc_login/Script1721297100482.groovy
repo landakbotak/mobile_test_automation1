@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\mari02\\Downloads\\Android-MyDemoAppRN.1.3.0.build-244.apk', true)
+Mobile.startApplication('C:\\Users\\1556\\Downloads\\Android-MyDemoAppRN.1.3.0.build-244.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/login_page/list_menu'), 0)
 
